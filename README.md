@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Add JUnit 4 Library to the build path
 2. Add Junit Params jar to your build path
 3. Fraction class has all the functionalities requested
-4. Main method in Driver class has a method called as an example
+4. Main method in Driver class has a fraction class method called as an example
 
 ### Running the tests
 
