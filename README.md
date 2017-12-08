@@ -32,5 +32,6 @@ Run the project as JUnit test
 
 ## Screenshots
 
-![solarized palette](https://github.com/altercation/solarized/raw/master/img/solarized-palette.png)
+![Arithmatic Operation Test Cases](https://user-images.githubusercontent.com/25787081/33759920-a16d2fec-dbc9-11e7-9577-a5450e7f01f5.png)
+![Relational Operation Test Cases](https://user-images.githubusercontent.com/25787081/33759921-a3aeb9ec-dbc9-11e7-8c0e-88872f8224b1.png)
 
