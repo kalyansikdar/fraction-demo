@@ -11,8 +11,8 @@ These instructions will help in setting up this project on the local machine for
 
 ### Installing & Running
 
-1. Add JUnit 4 Library to the build path
-2. Add JunitParams jar to the build path
+1. Add JUnit 4 library(Junit.jar) to the build path
+2. Add JunitParams jar(JUnitParams-1.0.4.jar) to the build path
 3. Build the project
 4. Main method of the Driver class can be used to test various functionalities of Fraction class
 
