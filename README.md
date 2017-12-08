@@ -1,20 +1,9 @@
 # fraction-demo
-This fraction class supports the operations add, subtract, multiply, divide, equality, non-equality, greater than, less than and display. It also implements Comparable so that it can be used as a Collection of Fraction. Ex: List\<Collection\>
+This project has been built using Maven build tools. The Fraction class supports the operations add, subtract, multiply, divide, equality, non-equality, greater than, less than and display. It also implements Comparable so that it can be used as a Collection of Fraction. Ex: List\<Collection\>
 
 ## Libraries
 
 JUnit, JUnitParams
-
-## Getting Started
-
-These instructions will help in setting up this project on the local machine for development and testing purposes.
-
-### Installing & Running
-
-1. Add JUnit 4 library(Junit.jar) to the build path
-2. Add JunitParams jar(JUnitParams-1.0.4.jar) to the build path
-3. Build the project
-4. Main method of the Driver class can be used to test various functionalities of Fraction class
 
 ### Running the tests
 
