@@ -1,5 +1,5 @@
 # fraction-demo
-This fraction class supports the operations add, subtract, multiply, divide, equality/non-equality, greater than/less than and display. It also implements Comparable so that it can be used as a Collection of Fraction. Ex: List<Collection>
+This fraction class supports the operations add, subtract, multiply, divide, equality, non-equality, greater than, less than and display. It also implements Comparable so that it can be used as a Collection of Fraction. Ex: List\<Collection\>
 
 ## Libraries
 
