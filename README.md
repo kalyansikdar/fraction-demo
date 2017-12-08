@@ -3,22 +3,22 @@ This fraction class supports the operations add, subtract, multiply, divide, equ
 
 ## Libraries
 
-JUnit, JUnit Params
+JUnit, JUnitParams
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will help in setting up this project on your local machine for development and testing purposes.
 
-### Installing
+### Installing & Running
 
 1. Add JUnit 4 Library to the build path
-2. Add Junit Params jar to your build path
-3. Fraction class has all the functionalities requested
-4. Main method in Driver class has a fraction class method called as an example
+2. Add JunitParams jar to your build path
+3. Build the project
+4. Main method of the Driver class can be used to test various functionalities of Fraction class
 
 ### Running the tests
 
-Basic JUnit test cases are implemented. Run the project as JUnit test
+Basic JUnit test cases are implemented. Run the FractionTest class as JUnit test.
 
 ## Screenshots
 ### Arithmatic Operation Test Cases
