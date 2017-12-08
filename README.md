@@ -2,22 +2,22 @@
 This project has been built using Maven build tools. The Fraction class supports the operations add, subtract, multiply, divide, equality, non-equality, greater than, less than and display. It also implements Comparable so that it can be used as a Collection of Fraction. Ex: List\<Collection\>
 
 ## Fraction class Api's
-Fraction(int, int)
-add(Fraction)
-subtract(Fraction)
-divide(Fraction)
-multiply(Fraction)
-lessThan(Fraction)
-greaterThan(Fraction)
-equals(Fraction)
-hashCode()
-toString()
-setNumerator(int)
-setDenominator(int)
-getNumerator(int)
-getDenominator(int)
+Fraction(int, int)<br />
+add(Fraction)<br />
+subtract(Fraction)<br />
+divide(Fraction)<br />
+multiply(Fraction)<br />
+lessThan(Fraction)<br />
+greaterThan(Fraction)<br />
+equals(Fraction)<br />
+hashCode()<br />
+toString()<br />
+setNumerator(int)<br />
+setDenominator(int)<br />
+getNumerator(int)<br />
+getDenominator(int)<br />
 
-## Libraries
+### Libraries
 
 JUnit, JUnitParams
 
